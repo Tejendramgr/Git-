@@ -1,0 +1,10 @@
+1.git init
+2.git add .
+3.git commit -m "first comment"
+4.git config --golbal user.email "...email...."
+5.git config --global user.name "...name...."
+6.git remote and origin .....link....
+7.git commit -m "first comment"
+8.git branch -M main
+9.git push -u origin main
+
